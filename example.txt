@@ -1,0 +1,23 @@
+NEXT_ID 7
+CITIES 6
+6 Wazirabad
+5 Lahore
+1 Karachi
+2 Hyderabad
+3 Sukkur
+4 Islamabad
+EDGES 14
+4 3 200 0 0
+4 6 210 0 0
+4 5 80 0 0
+3 2 120 0 0
+3 4 200 0 0
+6 4 210 0 0
+6 5 180 0 0
+1 2 150 0 0
+1 5 220 0 0
+5 4 80 0 0
+5 6 180 0 0
+5 1 220 0 0
+2 1 150 0 0
+2 3 120 0 0
